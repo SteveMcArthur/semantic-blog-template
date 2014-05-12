@@ -1,0 +1,168 @@
+
+html,
+body {
+    font-size: 100%;
+}
+        body {
+            /*            font-family: "Open Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;*/
+            font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+            margin: 0px;
+            padding: 0px;
+            color: #555555;
+            min-width: 320px;
+        }
+        body > .content {
+            background: #FCFCFC url(../images/bg.jpg) repeat;
+        }
+        #example * {
+           border-radius: 0 !important; 
+        }
+        .main.container {
+            width: 100%;
+            margin-left: auto;
+            margin-right: auto;
+            max-width: 62.5rem;
+        }
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+            font-weight: normal;
+            font-style: normal;
+            color: #222222;
+            text-rendering: optimizeLegibility;
+            margin-top: 0.2rem;
+            margin-bottom: 0.5rem;
+            line-height: 1.4;
+        }
+        h1 {
+            font-size: 2.75rem;
+        }
+        h2 {
+            font-size: 2.3125rem;
+        }
+        h3 {
+            font-size: 1.6875rem;
+        }
+        h4 {
+            font-size: 1.4375rem;
+        }
+        h5 {
+            font-size: 1.125rem;
+        }
+        p {
+            font-family: inherit;
+            font-weight: normal;
+            font-size: 1rem;
+            line-height: 1.6;
+            margin-bottom: 1.25rem;
+            text-rendering: optimizeLegibility;
+        }
+        p.lead {
+            font-size: 1.21875rem;
+            line-height: 1.6;
+        }
+        p aside {
+            font-size: 0.875rem;
+            line-height: 1.35;
+            font-style: italic;
+        }
+        a {
+            color: #008cba;
+            text-decoration: none;
+            line-height: inherit;
+        }
+        a:hover,
+        a:focus {
+            color: #007ba0;
+        }
+.ui.link.list a.item,
+.ui.link.list .item a {
+  color: #008cba;
+}
+        a img {
+            border: none;
+        }
+        .ui.right.floated {
+            float: right;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        .main.menu {
+            -webkit-box-shadow: none;
+            box-shadow: none;
+        }
+        .main.menu > .container {
+            width: 100%;
+            margin-left: auto;
+            margin-right: auto;
+            max-width: 62.5rem;
+        }
+        h1 small,
+        h2 small,
+        h3 small,
+        h4 small,
+        h5 small,
+        h6 small {
+            font-size: 60%;
+            color: #6f6f6f;
+            line-height: 0;
+        }
+        .main.menu > .container > h1 {
+            display: inline-block;
+        }
+        .transparent {
+            background-color: transparent !important;
+        }
+.ui.segment {
+    border-color:white;
+    border-width: 1px;
+    border-style: solid;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+        .ui.tertiary.segment {
+            color: #555555;
+            background: #f2f2f2;
+            border-color: #d7d7d7;
+        }
+.ui.large.buttons .button, .ui.large.buttons .or, .ui.large.button {
+
+cursor: pointer;
+    font-size: 1rem;
+    font-weight: normal;
+    font-style: normal;
+    text-transform:none;
+      text-align: center;
+  display: inline-block;
+  padding-top: 1rem;
+  padding-right: 2rem;
+  padding-bottom: 1.0625rem;
+  padding-left: 2rem;
+    line-height: normal;
+  position: relative;
+  text-decoration: none;
+  border-left: 1px solid white;
+  
+}
+.ui.button{
+/*    margin-left: 0.5px !important;  */
+}
+
+/*--- Blue ---*/
+.ui.blue.buttons .button,
+.ui.blue.button normal{
+ background-color:  #008cba;
+}
+.ui.blue.buttons .button:hover,
+.ui.blue.button:hover,
+.ui.blue.buttons .button:focus,
+.ui.blue.button:focus {
+ background-color:  #007295;
+}
+    
