@@ -1,4 +1,4 @@
-semantic-blog-template
+Semantic UI 'Blog Template'
 ======================
 
 [Semantic UI](http://semantic-ui.com/) "blog template" ported from the [Zurb Foundation blog template](http://foundation.zurb.com/templates/blog.html). Made as an exercise to compare the two frameworks.
