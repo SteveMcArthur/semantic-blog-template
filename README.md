@@ -6,3 +6,5 @@ Semantic UI 'Blog Template'
 Github projects:[https://github.com/Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI) and [https://github.com/zurb/foundation](https://github.com/zurb/foundation)
 
 Semantic UI doesn't provide any website templates that other responsive frameworks do. It's more of a collection UI elements that can be included within any website or framework. However, it is possible to design an entire site with Semantic UI. So to test this possibility I chose to port the 'blog template' from Zurb Foundation.
+
+Project web page at [http://stevemcarthur.github.io/semantic-blog-template/](http://stevemcarthur.github.io/semantic-blog-template)
