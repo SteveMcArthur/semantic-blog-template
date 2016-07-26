@@ -10,3 +10,9 @@ Semantic UI doesn't provide any website templates that other responsive framewor
 Project web page at [http://stevemcarthur.github.io/semantic-blog-template/](http://stevemcarthur.github.io/semantic-blog-template)
 
 ![Screen shot](https://raw.githubusercontent.com/SteveMcArthur/semantic-blog-template/screenshots/semantic-ui-blog.jpg)
+
+## License
+
+Licensed under the incredibly [permissive](http://en.wikipedia.org/wiki/Permissive_free_software_licence) [MIT license](http://creativecommons.org/licenses/MIT/)
+
+Copyright &copy; 2015+ Steve McArthur <steve@stevemcarthur.co.uk> (http://www.stevemcarthur.co.uk)
